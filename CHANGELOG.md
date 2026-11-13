@@ -1,5 +1,3 @@
-# Loader 1.1.0
+# Loader 1.1.1
 
-- Login screen.
-- Compact status.
-- Protected loader.
+- Fixed navigation and refresh resets.
